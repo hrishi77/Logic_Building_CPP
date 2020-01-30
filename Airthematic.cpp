@@ -1,4 +1,6 @@
+//Hrishikesh
 //Airthematic operations in c++
+
 #include <iostream>
 using namespace std;
 
@@ -65,7 +67,7 @@ class Airthematic
 int main()
 {
     Airthematic obj1; //Default constructor
-    Airthematic obj2(10,5); //Paramerterised constructor
+    Airthematic obj2(20,5); //Paramerterised constructor
 
     obj1.Add();
     cout<< obj1.iAns;
@@ -83,3 +85,17 @@ int main()
     
     return 0;
 }
+
+output:
+Default constructor 
+Paramerterised Constructor 
+0
+25
+Copy Constructor 
+25
+Deallocating memory of all objects 
+100
+Destructor 
+Destructor 
+Destructor 
+
