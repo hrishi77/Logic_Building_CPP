@@ -83,3 +83,17 @@ int main()
     
     return 0;
 }
+
+output:
+Default constructor 
+Paramerterised Constructor 
+0
+25
+Copy Constructor 
+25
+Deallocating memory of all objects 
+100
+Destructor 
+Destructor 
+Destructor 
+
