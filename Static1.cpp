@@ -1,11 +1,11 @@
 //Static member vaiable and static member function
-
+//bydefault private access spcifier in c++ if we not give 
 #include<iostream>
 using namespace std;
 
 class Account
 {
-    private://bydefault private
+    private:            
         int balance;    //Instance member variable
         static float ROI; //static member vairable or class variable
     
