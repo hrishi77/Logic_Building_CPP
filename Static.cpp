@@ -6,7 +6,7 @@ void fun()
 {
     static int x; 
     int y=10;
-    cout << x<<"\t"<<y;
+    cout << x<<"\t"<<y<<endl;
 }
 
 int main()

@@ -1,4 +1,4 @@
-//One friend function acces two private member of class .
+//One friend function access two private member of class .
 
 #include<iostream>
 using namespace std;

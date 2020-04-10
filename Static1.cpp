@@ -20,6 +20,7 @@ class Account
             cout << ROI <<"\n";
         }
 };
+
 float Account :: ROI = 3.14;
 
 int main()
